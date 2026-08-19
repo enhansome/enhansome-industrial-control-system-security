@@ -1,64 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Distributions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Honeypots"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Data"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Frameworks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Feeds and News"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Conferences and Conference Material"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Literature"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Education"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Introduction to ICS, SCADA, & PLCs"
-    },
-    {
-      "description": "Licensed under Apache License 2.0.",
-      "items": [],
-      "title": "License"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T21:54:56.333Z",
+    "last_updated": "2026-08-19T12:36:30.380Z",
     "original_repository": "hslatman/awesome-industrial-control-system-security",
+    "original_repository_id": 47621478,
     "original_repository_sha": "ecb50861a4bcd9eb7b02c5ef3817d315e1da94cb",
     "enhanced_repository": "enhansome/enhansome-industrial-control-system-security",
     "enhanced_repository_description": null,
