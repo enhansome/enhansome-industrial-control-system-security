@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T01:02:34.881Z",
-    "original_repository": "hslatman/awesome-industrial-control-system-security",
-    "original_repository_id": 47621478,
+    "last_updated": "2026-08-27T11:44:17.663Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 47621478,
+      "language": "Python",
+      "last_commit": "2025-10-10T09:48:06Z",
+      "owner": "hslatman",
+      "repo": "awesome-industrial-control-system-security",
+      "stars": 2005
+    },
     "original_repository_sha": "ecb50861a4bcd9eb7b02c5ef3817d315e1da94cb",
     "enhanced_repository": "enhansome/enhansome-industrial-control-system-security",
     "enhanced_repository_description": null,
