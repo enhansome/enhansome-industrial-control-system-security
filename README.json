@@ -1,15 +1,27 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-29T03:22:18.247Z",
+    "last_updated": "2026-08-29T04:25:06.322Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources related to Industrial Control System (ICS) security.",
+      "homepage": null,
       "id": 47621478,
       "language": "Python",
+      "license": "Apache-2.0",
       "last_commit": "2025-10-10T09:48:06Z",
+      "open_issues": 11,
       "owner": "hslatman",
       "repo": "awesome-industrial-control-system-security",
-      "stars": 2005
+      "stars": 2005,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "ics",
+        "iiot",
+        "security"
+      ]
     },
     "original_repository_sha": "ecb50861a4bcd9eb7b02c5ef3817d315e1da94cb",
     "enhanced_repository": "enhansome/enhansome-industrial-control-system-security",
