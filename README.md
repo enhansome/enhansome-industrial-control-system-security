@@ -2,7 +2,7 @@
 
 A curated list of resources related to Industrial Control System (ICS) security.
 
-Feel free to [contribute](CONTRIBUTING.md).
+Feel free to [contribute](https://github.com/hslatman/awesome-industrial-control-system-security/blob/HEAD/CONTRIBUTING.md).
 
 ## Tools
 
@@ -824,7 +824,7 @@ Industrial Control System Cyber Security</a>
 
 ## License
 
-Licensed under [Apache License 2.0](LICENSE).
+Licensed under [Apache License 2.0](https://github.com/hslatman/awesome-industrial-control-system-security/blob/HEAD/LICENSE).
 
 ***
 
