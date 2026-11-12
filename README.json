@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-11-11T01:27:57.124Z",
+    "last_updated": "2026-11-12T02:29:49.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Industrial Control System (ICS) security.",
@@ -13,7 +13,7 @@
       "open_issues": 17,
       "owner": "hslatman",
       "repo": "awesome-industrial-control-system-security",
-      "stars": 2048,
+      "stars": 2047,
       "topics": [
         "awesome",
         "awesome-list",
